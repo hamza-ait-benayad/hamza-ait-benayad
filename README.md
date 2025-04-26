@@ -39,7 +39,8 @@ Explore my projects and case studies:
 ## 🤝 Open to Collaboration
 I'm always interested in collaborating on impactful projects, whether startups, freelance opportunities, or open-source initiatives.
 
-📫 **Email**: aitbenayad.hamza@gmail.com 
+📫 **Email**: aitbenayad.hamza@gmail.com
+
 🔗 **LinkedIn**: [linkedin.com/in/hamza-aitbenayad](https://www.linkedin.com/in/hamza-aitbenayad-612ba819b/)
 
 Let's connect and build something exceptional together!
