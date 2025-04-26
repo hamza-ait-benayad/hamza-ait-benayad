@@ -17,7 +17,7 @@ I specialize in creating efficient, scalable, and user-centric solutions across 
 
 **Frontend Development**
 - React.js, Next.js, JavaScript (ES6+)
-- Tailwind CSS, Material-UI, Responsive Web Design
+- Tailwind CSS, Responsive Web Design
 
 **Backend Development**
 - Node.js, Express.js
@@ -25,13 +25,14 @@ I specialize in creating efficient, scalable, and user-centric solutions across 
 
 **Tools & Platforms**
 - Git, GitHub, Vite, Figma
-- RESTful APIs, MySQL, MongoDB
+- RESTful APIs, MySQL, MongoDB,
+- Oracle
 
 ---
 
 ## 🌐 Portfolio
 Explore my projects and case studies:  
-🔗 [Visit Portfolio](https://your-portfolio-link.com)
+🔗 [Visit Portfolio](https://hamza-10.netlify.app/)
 
 ---
 
@@ -39,7 +40,7 @@ Explore my projects and case studies:
 I'm always interested in collaborating on impactful projects, whether startups, freelance opportunities, or open-source initiatives.
 
 📫 **Email**: your-email@example.com  
-🔗 **LinkedIn**: [linkedin.com/in/your-linkedin-username](https://www.linkedin.com/in/your-linkedin-username/)
+🔗 **LinkedIn**: [linkedin.com/in/your-linkedin-username](https://www.linkedin.com/in/hamza-aitbenayad-612ba819b/)
 
 Let's connect and build something exceptional together!
 
@@ -47,7 +48,7 @@ Let's connect and build something exceptional together!
 
 ## 📈 GitHub Stats
 
-![Hamza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default)
+![Hamza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hamza-ait-benayad&show_icons=true&theme=default)
 
 ---
 
